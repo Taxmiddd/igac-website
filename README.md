@@ -1,35 +1,59 @@
-This is a Next.js project bootstrapped with create-next-app.
+# IGAC Website
 
-Getting Started
-First, run the development server:
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Taxmiddd/igac-website?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Taxmiddd/igac-website?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/issues/Taxmiddd/igac-website" alt="Issues">
+  <img src="https://img.shields.io/github/license/Taxmiddd/igac-website" alt="License">
+  <img src="https://img.shields.io/github/last-commit/Taxmiddd/igac-website" alt="Last Commit">
+</p>
 
-npm run dev
+<p align="center">
+  <strong>A Full-Stack Web Platform for IGAC Organization</strong><br>
+  Modern, scalable, and responsive design for event and membership management.
+</p>
 
-# or
+---
 
-yarn dev
+## 📚 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Installation](#-installation)
+- [Deployment](#-deployment)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-# or
+---
 
-pnpm dev
+## 🔍 Overview
+The **IGAC Website** is a full-stack solution designed for the **International Generosity and Care (IGAC)** organization. It provides tools for managing events, memberships, and organizational updates while offering an intuitive and responsive interface.
 
-# or
+---
 
-bun dev
-Open http://localhost:3000 with your browser to see the result.
+## ✨ Features
+- **Responsive UI** with **React + TailwindCSS**
+- Secure **Authentication & Authorization**
+- Event management & announcements
+- Membership registration & management
+- Admin dashboard for full control
+- Optimized for performance and scalability
 
-You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
+---
 
-This project uses next/font to automatically optimize and load Geist, a new font family for Vercel.
+## 🛠 Tech Stack
+| Layer      | Technology                  |
+|------------|----------------------------|
+| Frontend   | React, TailwindCSS, TypeScript |
+| Backend    | Node.js, Express.js       |
+| Database   | MongoDB / PostgreSQL (Add Your Choice) |
+| Other      | REST API, Authentication  |
 
-Learn More
-To learn more about Next.js, take a look at the following resources:
+---
 
-Next.js Documentation - learn about Next.js features and API.
-Learn Next.js - an interactive Next.js tutorial.
-You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
+## ⚡ Installation
 
-Deploy on Vercel
-The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
-
-Check out our Next.js deployment documentation for more details.
+### Clone the Repository
+```bash
+git clone https://github.com/Taxmiddd/igac-website.git
+cd igac-website
